@@ -2,6 +2,3 @@
 
 ### 🇧🇷/🇵🇹 Sobre este projeto
 - Projeto desenvolvido durante os aulões da Rocketseat.
-  - Tecnologias usadas:
-    - Python
-    - CrewAI
