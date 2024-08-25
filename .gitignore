@@ -1,3 +1,6 @@
 venv_SAWAIA/
 api_settings/
 .vscode/
+
+crewAI.ipynb
+bkCrewAI.ipynb
